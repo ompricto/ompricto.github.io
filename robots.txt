@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ompricto.github.io/sitemap
+Sitemap: https://ompricto.github.io/app/sitemap
+Sitemap: https://ompricto.github.io/assets/sitemap
+Sitemap: https://ompricto.github.io/css/sitemap
+Sitemap: https://ompricto.github.io/includes/sitemap
+Sitemap: https://ompricto.github.io/item/sitemap
+Sitemap: https://ompricto.github.io/src/sitemap
